@@ -1,0 +1,76 @@
+{
+  "source": "https://stars.princepersonazh.ru/",
+  "import_date": "2026-11-19",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 5563,
+      "sha256": "10b4ed7bcc13aa5dd414da7640656c9d3cad96a5385a9af35d4e1e1ad7785a2a"
+    },
+    {
+      "path": "style.css",
+      "bytes": 9352,
+      "sha256": "e984d33fcd4af6e596dd8eb9b41c6ec41d5d17ec31d0723a5f6afcae3ead9094"
+    },
+    {
+      "path": "game.js",
+      "bytes": 3021,
+      "sha256": "b7ffbabb6098e0b72c94ee5e719f149ca4133481aed611366a2d2f292667834c"
+    },
+    {
+      "path": "logo.svg",
+      "bytes": 889,
+      "sha256": "7c25eda18db3f584af6031965ef0820c1dea5ec1b3caaac97d08e0b21321b3c8"
+    },
+    {
+      "path": "cover-1.jpg",
+      "bytes": 43577,
+      "sha256": "d319252e5768b62795fe751940f1a4276ff067b03eb708c8ad38c1e42a5fcde5"
+    },
+    {
+      "path": "cover-2.jpg",
+      "bytes": 55483,
+      "sha256": "80e5450427df4ac4a4616765402bd58bf2dcfcf08df780fe98452cf139378821"
+    },
+    {
+      "path": "font-0.ttf",
+      "bytes": 96200,
+      "sha256": "ed335894f8d954263675f7e457bf657374d8b7be629be4dc43aef97c309ad3ae"
+    },
+    {
+      "path": "font-1.ttf",
+      "bytes": 96300,
+      "sha256": "437dc9f921739a6893128fa4dfc299424951148475815a9a213a46457878c42b"
+    },
+    {
+      "path": "font-2.ttf",
+      "bytes": 96348,
+      "sha256": "68ed4be49ec7d32f07b42f9232dc01ca1df7a77be1d9b0731aac74db58235f34"
+    },
+    {
+      "path": "font-3.ttf",
+      "bytes": 96188,
+      "sha256": "ea1f264039fed13fd36e6d6f49fcae4fe7007def02cf2972b5c7f6d6f1349d06"
+    },
+    {
+      "path": "font-4.ttf",
+      "bytes": 96816,
+      "sha256": "a8291b05b2732801abdbbb6d06866c57431c3b990638462423e692151b5e0895"
+    },
+    {
+      "path": "font-5.ttf",
+      "bytes": 86428,
+      "sha256": "edca7f2098242ead25675251ac9c35ecd2a9d001e4bcb641e07471148b6c365b"
+    },
+    {
+      "path": "font-6.ttf",
+      "bytes": 86444,
+      "sha256": "20987dd8fd1d3e9ab087a55cb90e98081c873c729c113043e0bfb1ef0f9e0bd7"
+    },
+    {
+      "path": "font-7.ttf",
+      "bytes": 86416,
+      "sha256": "a6ee8b91ec269a6f48631ba4ba1a3ab7e5039e5482dda8dc9672ee4620d7bd68"
+    }
+  ]
+}
